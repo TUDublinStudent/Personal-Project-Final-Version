@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour
 {
-    public string Url = "https://github.com/TUDublinStudent/Personal-Project-Alpha";
+    public string Url = "https://github.com/TUDublinStudent/Personal-Project-Final-Version";
 
     public void Play()
     {
